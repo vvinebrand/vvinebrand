@@ -1260,7 +1260,7 @@ form input::placeholder {
     }
 
     .next {
-        margin-right: 10px;
+        margin-right: 17px;
 
     }
 
@@ -1445,7 +1445,7 @@ form input::placeholder {
     }
 
     .next {
-        margin-right: 7px;
+        margin-right: 12px;
 
     }
 
@@ -1607,7 +1607,7 @@ form input::placeholder {
     }
 
     .next {
-        margin-right: 10px;
+        margin-right: 12px;
 
     }
 
@@ -1692,7 +1692,8 @@ form input::placeholder {
         font-size: 12px;
     }
     #note{
-        font-size: 11px;
+        margin-top:10px;
+        font-size: 9px;
     }
     .category ul{
         margin-left: -15px;
